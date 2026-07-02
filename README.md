@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Venkateswaran
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Builder+🤖;Full-Stack+Web+Developer+🌐;Freelancer+%26+SaaS+Creator+💻;Building+Cool+Stuff+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Science+Student+🎓;Math+Graduate+📐;Python+%26+SQL+Learner+🐍;Building+My+ML/Mlops+Projects+🚀" alt="Typing SVG" />
 </div>
 
 ---
