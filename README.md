@@ -15,7 +15,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p>🎓 Pursuing M.Sc. Data Science at SASTRA, Thanjavur | B.Sc. Mathematics graduate</p>
+      <p>🎓 Pursuing M.Sc. Data Science at SASTRA, Chennai Campus | B.Sc. Mathematics graduate</p>
       <p>⚡ Learning to build end-to-end data science workflows — from raw data to trained models</p>
       <p>🐍 Working with Python, SQL & C, currently exploring Machine Learning & MLOps</p>
       <p>📊 Strong foundation in statistics & mathematical problem-solving</p>
