@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Venkateswaran 👋
 
-<!--
-**venkateshakash46/venkateshakash46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Data Science student at SASTRA, Thanjavur  
+📐 B.Sc. Mathematics graduate
 
-Here are some ideas to get you started:
+🔭 Currently learning Python, SQL, and the full data science workflow — from data collection to model building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Practicing problem-solving on LeetCode and CodeChef
+
+📫 Reach me: venkateshakash46@gmail.com | [LinkedIn](https://linkedin.com/in/venkateswaran-m)
+
+---
+
+### 🛠️ Tools & Skills
+- **Languages:** Python, SQL, C
+- **Tools:** PyCharm, VS Code, MS Excel
+- **Currently exploring:** Machine Learning, Data Visualization, Statistical Modeling
