@@ -43,7 +43,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
 ### Tools
